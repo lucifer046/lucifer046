@@ -1,15 +1,12 @@
-<center>
+<div align="center">
 
 # Divya Prakash | Data Science & Full Stack
 
-<!-- PRIMARY BANNER -->
-<img src="https://raw.githubusercontent.com/lucifer046/lucifer046/main/assets/divya_prakash_emerald_banner.png" alt="Divya Prakash Banner" width="100%">
-
-<br><br>
+<br>
 
 <img src="divya_prakash.jpeg" width="180" alt="Divya Prakash">
 
-<br>
+<br><br>
 
 <!-- DYNAMIC TYPING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+IIT+Madras;Full+Stack+Web+Developer;Algorithm+%26+DSA+Enthusiast;Building+Scalable+Web+Systems" alt="Typing SVG" />
@@ -17,6 +14,8 @@
 <br>
 
 <hr width="50%">
+
+</div>
 
 ### About Me
 
@@ -46,6 +45,8 @@ print(prakash.get_status())
 
 > [!NOTE]
 > I am a Data Science student at **IIT Madras**, specializing in the intersection of Data Intelligence and Full Stack Development. My goal is to architect efficient, data-driven applications.
+
+<div align="center">
 
 <hr width="50%">
 
@@ -95,4 +96,4 @@ print(prakash.get_status())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=%2310B981)](https://www.linkedin.com/in/divya-prakash-5b564b273/) [![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=Instagram&logoColor=10B981)](https://www.instagram.com/divy.prakash9521) [![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=X&logoColor=10B981)](https://x.com/lucifer046xx) [![IITM Portfolio](https://img.shields.io/badge/IITM_Portfolio-111827?style=for-the-badge&logo=googlescholar&logoColor=10B981)](https://ds.study.iitm.ac.in/student/24F3004288)
 
-</center>
+</div>
