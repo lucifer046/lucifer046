@@ -74,11 +74,11 @@ print(prakash.get_status())
 
 ### GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&icon_color=10B981&text_color=E5E7EB" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&text_color=E5E7EB" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&font=Outfit" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 <hr width="50%">
 
