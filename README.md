@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/divya-prakash-5b564b273/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=10B981" height="35"></a> <a href="https://linktr.ee/Divya.Prakash"><img src="https://img.shields.io/badge/Linktree-0d1117?style=flat&logo=linktree&logoColor=10B981" height="35"></a> <a href="https://x.com/lucifer046xx"><img src="https://img.shields.io/badge/X-0d1117?style=flat&logo=x&logoColor=10B981" height="35"></a> <a href="https://www.instagram.com/divy.prakash9521"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=instagram&logoColor=10B981" height="35"></a> <a href="https://ds.study.iitm.ac.in/student/24F3004288"><img src="https://img.shields.io/badge/IITM_Portal-0d1117?style=flat&logo=googlescholar&logoColor=10B981" height="35"></a>
+<a href="https://www.linkedin.com/in/divya-prakash-5b564b273/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=10B981" height="40"></a> <a href="https://linktr.ee/Divya.Prakash"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=10B981" height="40"></a> <a href="https://x.com/lucifer046xx"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=10B981" height="40"></a> <a href="https://www.instagram.com/divy.prakash9521"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=10B981" height="40"></a> <a href="https://ds.study.iitm.ac.in/student/24F3004288"><img src="https://img.shields.io/badge/IITM_Portal-0d1117?style=for-the-badge&logo=googlescholar&logoColor=10B981" height="40"></a>
 
 <br>
 
@@ -155,16 +155,16 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 <div align="center">
 
 #### Languages & Core
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=Python&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=10B981" height="35">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=Python&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=10B981" height="40">
 
 #### AI & Systems
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=chainlink&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=10B981" height="35">
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981" height="40">
 
 #### Web & Infrastructure
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat&logo=Flask&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=PostgreSQL&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=MySQL&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=HTML5&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=10B981" height="35">
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=10B981" height="40">
 
 #### Workflow & DevOps
-<img src="https://img.shields.io/badge/Git-0d1117?style=flat&logo=Git&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=GitHub&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat&logo=Vercel&logoColor=10B981" height="35"> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visualstudiocode&logoColor=10B981" height="35">
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=Git&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=Vercel&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=10B981" height="40">
 
 </div>
 
