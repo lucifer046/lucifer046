@@ -16,7 +16,7 @@
 
 <br>
 
-![Profile Views](https://api.visitorbadge.io/api/combined?path=lucifer046&labelColor=%230d1117&countColor=%2310B981&style=flat&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=lucifer046&labelColor=%230d1117&countColor=%2310B981&style=flat&label=PROFILE+VIEWS)
 
 <br>
 
