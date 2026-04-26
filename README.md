@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/divya-prakash-5b564b273/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=10B981" height="40"></a> <a href="https://linktr.ee/Divya.Prakash"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=10B981" height="40"></a> <a href="https://x.com/lucifer046xx"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=10B981" height="40"></a> <a href="https://www.instagram.com/divy.prakash9521"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=10B981" height="40"></a> <a href="https://ds.study.iitm.ac.in/student/24F3004288"><img src="https://img.shields.io/badge/IITM_Portal-0d1117?style=for-the-badge&logo=googlescholar&logoColor=10B981" height="40"></a>
+<a href="https://www.linkedin.com/in/divya-prakash-5b564b273/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=10B981" height="40"></a> <a href="https://linktr.ee/Divya.Prakash"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=10B981" height="40"></a> <a href="https://x.com/lucifer046xx"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=10B981" height="40"></a> <a href="https://www.instagram.com/divy.prakash9521"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=10B981" height="40"></a> <a href="https://ds.study.iitm.ac.in/student/24F3004288"><img src="https://img.shields.io/badge/IITM_Portal-0d1117?style=for-the-badge&logo=googlescholar&logoColor=10B981" height="40"></a>
 
 <br>
 
@@ -34,26 +34,26 @@ _"Building secure systems and impactful innovations through technology, research
 
 **`[ IDENTITY ]`**
 
-```
+<pre>
 NAME       →  Divya Prakash
 ROLE       →  Co-Founder, AstraNex Defence
 EDUCATION  →  Engineering @ IIT Madras
 STATUS     →  Active · Building
 CLEARANCE  →  Builder · Researcher · Leader
-```
+</pre>
 
 </td>
 <td width="50%" valign="top">
 
 **`[ MISSION VECTOR ]`**
 
-```
+<pre>
 PRIMARY    →  Secure Systems Architecture
 SECONDARY  →  AI-Driven Defence Innovation
 TERTIARY   →  Impactful Tech Leadership
 DIRECTIVE  →  Build. Research. Lead.
 OUTPUT     →  Technology × Purpose
-```
+</pre>
 
 </td>
 </tr>
@@ -62,11 +62,11 @@ OUTPUT     →  Technology × Purpose
 
 **`[ ACTIVE DOMAINS ]`**
 
-| Domain                      | Capability                                                |
-| --------------------------- | --------------------------------------------------------- |
-| **Artificial Intelligence** | Applied ML, multimodal AI systems, LLM integration        |
-| **Cybersecurity**           | Secure design, threat modelling, hardened infrastructure  |
-| **Defence Technology**      | Defence-grade innovation & product development @ AstraNex |
+| Domain | Capability |
+|--------|-----------|
+| **Artificial Intelligence** | Applied ML, multimodal AI systems, LLM integration |
+| **Cybersecurity** | Secure design, threat modelling, hardened infrastructure |
+| **Defence Technology** | Defence-grade innovation & product development @ AstraNex |
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Building next-generation defence technology at the intersection of AI, cybersecu
 
 ### IIT Madras
 
-> **Engineering Student**
+> **B.S. Data Science & Applications**
 
 Pursuing rigorous engineering education with a focus on applied AI, systems design, and research. Bridging theoretical foundations with real-world product development at AstraNex.
 
@@ -124,9 +124,9 @@ A **local, multimodal AI assistant** that controls Windows, browses the web, and
 
 ### [MAD-I Handbook](https://lucifer046.github.io/mad_1_handbook/)
 
-> Python · Public
+> Interactive · Live · IIT Madras
 
-A comprehensive **interactive handbook** for Modern Web Application Development (MAD-I). Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
+A comprehensive **interactive handbook** for Modern Web Application Development. Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
 
 `Python` `Web Development` `Educational Tech` `IIT Madras`
 
@@ -148,7 +148,7 @@ A **community-driven resource ecosystem** built for knowledge sharing across tec
 
 ### [Python DSA Handbook](https://lucifer046.github.io/python-dsa-handbook/)
 
-> Interactive · Live
+> Interactive · Live · Public
 
 A **premium algorithmic handbook** — visual, interactive, and pedagogically designed with infographics and algorithm deep-dives. Not just DSA, but an engineering reference.
 
@@ -212,7 +212,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3d2e,10B981&height=120&section=footer&text=Build.%20Research.%20Lead.&fontSize=20&fontColor=10B981&fontAlignY=65" alt="Footer" />
 
-### ∞ अंतः अस्ति प्रारंभः ∞
+### अंतः अस्ति प्रारंभः ∞
 
 _The End is the Beginning_
 
