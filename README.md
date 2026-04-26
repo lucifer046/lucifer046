@@ -34,26 +34,26 @@ _"Building secure systems and impactful innovations through technology, research
 
 **`[ IDENTITY ]`**
 
-| | | |
-|:--- |:---:|:--- |
-| **NAME** | → | Divya Prakash |
-| **ROLE** | → | Co-Founder, AstraNex Defence |
-| **EDU** | → | Engineering @ IIT Madras |
-| **STATUS** | → | Active · Building |
-| **CLEAR** | → | Builder · Researcher · Leader |
+<pre>
+NAME       →  Divya Prakash           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ROLE       →  Co-Founder, AstraNex    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EDUCATION  →  Engineering @ IITM      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+STATUS     →  Active · Building       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CLEARANCE  →  Builder · Researcher    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</pre>
 
 </td>
 <td width="50%" valign="top">
 
 **`[ MISSION VECTOR ]`**
 
-| | | |
-|:--- |:---:|:--- |
-| **PRIMARY** | → | Secure Systems Architecture |
-| **SEC** | → | AI-Driven Defence Innovation |
-| **TERT** | → | Impactful Tech Leadership |
-| **DIRECT** | → | Build. Research. Lead. |
-| **OUTPUT** | → | Technology × Purpose |
+<pre>
+PRIMARY    →  Secure Systems          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+SECONDARY  →  AI Defence Innovation   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+TERTIARY   →  Tech Leadership         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DIRECTIVE  →  Build. Research. Lead.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+OUTPUT     →  Technology × Purpose    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</pre>
 
 </td>
 </tr>
