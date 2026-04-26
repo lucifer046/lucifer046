@@ -12,15 +12,15 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/divya-prakash-5b564b273/)
-[![Linktree](https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=10B981)](https://linktr.ee/Divya.Prakash)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=10B981)](https://x.com/lucifer046xx)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=10B981)](https://www.instagram.com/divy.prakash9521)
-[![IIT Madras](https://img.shields.io/badge/IITM_Portal-0d1117?style=for-the-badge&logo=googlescholar&logoColor=10B981)](https://ds.study.iitm.ac.in/student/24F3004288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/divya-prakash-5b564b273/)
+[![Linktree](https://img.shields.io/badge/Linktree-0d1117?style=flat&logo=linktree&logoColor=10B981)](https://linktr.ee/Divya.Prakash)
+[![X](https://img.shields.io/badge/X-0d1117?style=flat&logo=x&logoColor=10B981)](https://x.com/lucifer046xx)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=instagram&logoColor=10B981)](https://www.instagram.com/divy.prakash9521)
+[![IIT Madras](https://img.shields.io/badge/IITM_Portal-0d1117?style=flat&logo=googlescholar&logoColor=10B981)](https://ds.study.iitm.ac.in/student/24F3004288)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lucifer046&color=10B981&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=lucifer046&color=10B981&style=flat&label=PROFILE+VIEWS)
 
 </div>
 
@@ -159,29 +159,29 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 <div align="center">
 
 #### Languages & Core
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=Python&logoColor=10B981)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=10B981)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=10B981)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=10B981)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=Python&logoColor=10B981)
+![C](https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=10B981)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=10B981)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=10B981)
 
 #### AI & Systems
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=10B981)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10B981)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=10B981)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=10B981)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=chainlink&logoColor=10B981)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=10B981)
 
 #### Web & Infrastructure
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=10B981)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=10B981)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=10B981)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=10B981)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=10B981)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=Flask&logoColor=10B981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=PostgreSQL&logoColor=10B981)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=MySQL&logoColor=10B981)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=HTML5&logoColor=10B981)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=10B981)
 
 #### Workflow & DevOps
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=Git&logoColor=10B981)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=10B981)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=Vercel&logoColor=10B981)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=10B981)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=Git&logoColor=10B981)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=GitHub&logoColor=10B981)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat&logo=Vercel&logoColor=10B981)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat&logo=visualstudiocode&logoColor=10B981)
 
 </div>
 
