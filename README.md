@@ -198,7 +198,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=false&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 <br><br>
 
