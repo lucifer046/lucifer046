@@ -188,7 +188,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=a1f0c8" height="170" alt="Top Languages" />
 
