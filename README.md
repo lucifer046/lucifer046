@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3d2e,10B981&height=200&section=header&text=DIVYA%20PRAKASH&fontSize=52&fontColor=10B981&fontAlignY=38&desc=Co-Founder%20%E2%80%A2%20AstraNex%20Defence%20%20%7C%20%20IIT%20Madras&descAlignY=58&descSize=18&descColor=a1f0c8" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3d2e,10B981&height=200&section=header&text=DIVYA%20PRAKASH&fontSize=52&fontColor=10B981&fontAlignY=38&desc=Co-Founder%20%26%20Head%20of%20AI%20Security%20%26%20Community%20%20%7C%20%20IIT%20Madras&descAlignY=58&descSize=16&descColor=a1f0c8" alt="Header" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Co-Founder+%40+AstraNex+Defence;Engineering+Student+%40+IIT+Madras;AI+%C2%B7+Cybersecurity+%C2%B7+Defence+Technology;Building+Secure+%26+Impactful+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Co-Founder+%26+Head+of+AI+Security;Head+of+Community+%40+AstraNex;Engineering+Student+%40+IIT+Madras;AI+%C2%B7+Cybersecurity+%C2%B7+Defence+Technology;Building+Secure+%26+Impactful+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -37,7 +37,7 @@ _"Building secure systems and impactful innovations through technology, research
 <pre>
 NAME       →  Divya Prakash           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ROLE       →  Co-Founder, AstraNex    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-EDUCATION  →  Engineering @ IITM      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HEAD       →  AI Security & Community  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 STATUS     →  Active · Building       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 CLEARANCE  →  Builder · Researcher    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </pre>
@@ -82,11 +82,11 @@ OUTPUT     →  Technology × Purpose    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### AstraNex Defence
 
-> **Co-Founder & Engineering Lead**
+> **Co-Founder & Head of AI Security & Community**
 
 Building next-generation defence technology at the intersection of AI, cybersecurity, and autonomous systems. Focused on creating secure, reliable, and impactful solutions for critical infrastructure and national security challenges.
 
-`AI` `Cybersecurity` `Autonomous Systems` `Defence Tech`
+`AI Security` `Community` `Cybersecurity` `Defence Tech`
 
 </td>
 <td width="50%" valign="top">
@@ -198,7 +198,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=false&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 <br><br>
 
