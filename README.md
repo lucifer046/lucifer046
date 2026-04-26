@@ -36,7 +36,7 @@ _"Building secure systems and impactful innovations through technology, research
 
 <pre>
 NAME       →  Divya Prakash           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ROLE       →  Co-Founder, AI Security  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ROLE       →  Co-Founder, AstraNex    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 EDUCATION  →  Engineering @ IITM      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 STATUS     →  Active · Building       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 CLEARANCE  →  Builder · Researcher    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
