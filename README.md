@@ -20,7 +20,7 @@
 
 <br>
 
-*"Building secure systems and impactful innovations through technology, research, and leadership."*
+_"Building secure systems and impactful innovations through technology, research, and leadership."_
 
 </div>
 
@@ -62,11 +62,11 @@ OUTPUT     →  Technology × Purpose
 
 **`[ ACTIVE DOMAINS ]`**
 
-| Domain | Capability |
-|--------|-----------|
-| **Artificial Intelligence** | Applied ML, multimodal AI systems, LLM integration |
-| **Cybersecurity** | Secure design, threat modelling, hardened infrastructure |
-| **Defence Technology** | Defence-grade innovation & product development @ AstraNex |
+| Domain                      | Capability                                                |
+| --------------------------- | --------------------------------------------------------- |
+| **Artificial Intelligence** | Applied ML, multimodal AI systems, LLM integration        |
+| **Cybersecurity**           | Secure design, threat modelling, hardened infrastructure  |
+| **Defence Technology**      | Defence-grade innovation & product development @ AstraNex |
 
 </td>
 </tr>
@@ -81,6 +81,7 @@ OUTPUT     →  Technology × Purpose
 <td width="50%" valign="top">
 
 ### AstraNex Defence
+
 > **Co-Founder & Engineering Lead**
 
 Building next-generation defence technology at the intersection of AI, cybersecurity, and autonomous systems. Focused on creating secure, reliable, and impactful solutions for critical infrastructure and national security challenges.
@@ -91,6 +92,7 @@ Building next-generation defence technology at the intersection of AI, cybersecu
 <td width="50%" valign="top">
 
 ### IIT Madras
+
 > **Engineering Student**
 
 Pursuing rigorous engineering education with a focus on applied AI, systems design, and research. Bridging theoretical foundations with real-world product development at AstraNex.
@@ -110,6 +112,7 @@ Pursuing rigorous engineering education with a focus on applied AI, systems desi
 <td width="50%" valign="top">
 
 ### [Hybrid-LLM-Desktop-Assistant](https://github.com/lucifer046/Hybrid-LLM-Desktop-Assistant)
+
 > **10 Stars** · Python · Public
 
 A **local, multimodal AI assistant** that controls Windows, browses the web, and generates content using a hybrid LLM architecture. Demonstrates practical AI deployment with privacy-first, on-device intelligence.
@@ -120,6 +123,7 @@ A **local, multimodal AI assistant** that controls Windows, browses the web, and
 <td width="50%" valign="top">
 
 ### [MAD-I Handbook](https://lucifer046.github.io/mad_1_handbook/)
+
 > Python · Public
 
 A comprehensive **interactive handbook** for Modern Web Application Development (MAD-I). Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
@@ -132,6 +136,7 @@ A comprehensive **interactive handbook** for Modern Web Application Development 
 <td width="50%" valign="top">
 
 ### [TechHub Resources](https://techhub-resources.vercel.app/)
+
 > Live · Community Platform
 
 A **community-driven resource ecosystem** built for knowledge sharing across tech communities. Designed and deployed at scale.
@@ -142,6 +147,7 @@ A **community-driven resource ecosystem** built for knowledge sharing across tec
 <td width="50%" valign="top">
 
 ### [Python DSA Handbook](https://lucifer046.github.io/python-dsa-handbook/)
+
 > Interactive · Live
 
 A **premium algorithmic handbook** — visual, interactive, and pedagogically designed with infographics and algorithm deep-dives. Not just DSA, but an engineering reference.
@@ -159,15 +165,19 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 <div align="center">
 
 #### Languages & Core
+
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=Python&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=10B981" height="40">
 
 #### AI & Systems
+
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981" height="40">
 
 #### Web & Infrastructure
+
 <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=10B981" height="40">
 
 #### Workflow & DevOps
+
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=Git&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=Vercel&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=10B981" height="40">
 
 </div>
@@ -178,9 +188,9 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=a1f0c8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=a1f0c8" height="170" alt="Top Languages" />
 
 <br><br>
 
@@ -202,7 +212,8 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3d2e,10B981&height=120&section=footer&text=Build.%20Research.%20Lead.&fontSize=20&fontColor=10B981&fontAlignY=65" alt="Footer" />
 
-### अंतः अस्ति प्रारंभः ∞
-*The End is the Beginning*
+### ∞ अंतः अस्ति प्रारंभः ∞
+
+_The End is the Beginning_
 
 </div>
