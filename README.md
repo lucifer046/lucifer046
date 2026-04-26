@@ -18,6 +18,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucifer046&color=10B981&style=flat&label=PROFILE+VIEWS)
 
+<br>
+
+*"Building secure systems and impactful innovations through technology, research, and leadership."*
+
 </div>
 
 ---
@@ -198,6 +202,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a3d2e,10B981&height=120&section=footer&text=Build.%20Research.%20Lead.&fontSize=20&fontColor=10B981&fontAlignY=65" alt="Footer" />
 
-*"Building secure systems and impactful innovations through technology, research, and leadership."*
+### अंतः अस्ति प्रारंभः ∞
+*The End is the Beginning*
 
 </div>
