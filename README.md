@@ -16,7 +16,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lucifer046&color=10B981&style=flat&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Flucifer046%2Flucifer046.json%3Fcolor%3D10B981)
 
 <br>
 
@@ -198,7 +198,7 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-frame=false&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucifer046&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 <br><br>
 
