@@ -35,11 +35,11 @@ _"Building secure systems and impactful innovations through technology, research
 **`[ IDENTITY ]`**
 
 <pre>
-NAME       →  Divya Prakash           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ROLE       →  Co-Founder, AstraNex    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-EDUCATION  →  Engineering @ IITM      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-STATUS     →  Active · Building       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-CLEARANCE  →  Builder · Researcher    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NAME       →  Divya Prakash            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ROLE       →  Co-Founder, AstraNex     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EDUCATION  →  Engineering @ IIT-Madras &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+STATUS     →  Active · Building        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CLEARANCE  →  Builder · Researcher     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </pre>
 
 </td>
@@ -148,7 +148,7 @@ A **community-driven resource ecosystem** built for knowledge sharing across tec
 
 ### [Python DSA Handbook](https://lucifer046.github.io/python-dsa-handbook/)
 
-> Interactive · Live · Public
+> Interactive · Live · IIT Madras
 
 A **premium algorithmic handbook** — visual, interactive, and pedagogically designed with infographics and algorithm deep-dives. Not just DSA, but an engineering reference.
 
