@@ -122,19 +122,6 @@ A **local, multimodal AI assistant** that controls Windows, browses the web, and
 </td>
 <td width="50%" valign="top">
 
-### [MAD-I Handbook](https://lucifer046.github.io/mad_1_handbook/)
-
-> Interactive · Live · IIT Madras
-
-A comprehensive **interactive handbook** for Modern Web Application Development. Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
-
-`Python` `Web Development` `Educational Tech` `IIT Madras`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [TechHub Resources](https://techhub-resources.vercel.app/)
 
 > Live · Community Platform
@@ -142,6 +129,19 @@ A comprehensive **interactive handbook** for Modern Web Application Development.
 A **community-driven resource ecosystem** built for knowledge sharing across tech communities. Designed and deployed at scale.
 
 `Full Stack` `Community` `Vercel` `Flask`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MAD-I Handbook](https://lucifer046.github.io/mad-1-handbook/)
+
+> Interactive · Live · IIT Madras
+
+A comprehensive **interactive handbook** for Modern Web Application Development. Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
+
+`Python` `Web Development` `Educational Tech` `IIT Madras`
 
 </td>
 <td width="50%" valign="top">
