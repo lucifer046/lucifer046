@@ -139,9 +139,9 @@ A **community-driven resource ecosystem** built for knowledge sharing across tec
 
 > Interactive · Live · IIT Madras
 
-A comprehensive **interactive handbook** for Modern Web Application Development. Built with a premium dual-pane UI, command palette, and X-Ray tooltips — used by IIT Madras students.
+A comprehensive **interactive handbook** for Modern App Development 1, focused on full-stack backend engineering. Covers Flask, HTML/CSS, JS basics, Jinja2, SQLAlchemy, MySQL, and REST APIs.
 
-`Python` `Web Development` `Educational Tech` `IIT Madras`
+`Flask` `SQLAlchemy` `MySQL` `REST API` `Jinja2` `Web Dev`
 
 </td>
 <td width="50%" valign="top">
@@ -153,6 +153,21 @@ A comprehensive **interactive handbook** for Modern Web Application Development.
 A **premium algorithmic handbook** — visual, interactive, and pedagogically designed with infographics and algorithm deep-dives. Not just DSA, but an engineering reference.
 
 `Python` `Algorithms` `Data Structures` `Education`
+
+</td>
+<tr>
+<td width="50%" valign="top">
+
+### [ML Foundations Handbook](https://lucifer046.github.io/ml-foundations/)
+
+> Interactive · Live · IIT Madras
+
+A **mathematically rigorous handbook** for Machine Learning Foundations. Covers linear algebra, calculus, optimization, and probability theory — the bedrock of modern AI engineering.
+
+`Mathematics` `Linear Algebra` `Optimization` `ML Foundations`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -170,11 +185,11 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 #### AI & Systems
 
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981" height="40">
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Mathematics-0d1117?style=for-the-badge&logo=mathematica&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Linear_Algebra-0d1117?style=for-the-badge&logo=wolfram&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981" height="40">
 
 #### Web & Infrastructure
 
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=10B981" height="40">
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/Jinja2-0d1117?style=for-the-badge&logo=jinja&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=10B981" height="40"> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=10B981" height="40">
 
 #### Workflow & DevOps
 
@@ -188,13 +203,13 @@ A **premium algorithmic handbook** — visual, interactive, and pedagogically de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucifer046&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucifer046&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=a1f0c8&ring_color=10B981" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer046&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=a1f0c8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucifer046&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=a1f0c8" height="170" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer046&theme=tokyonight&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=a1f0c8&dates=a1f0c8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=lucifer046&theme=tokyonight&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=a1f0c8&dates=a1f0c8" alt="GitHub Streak" />
 
 <br><br>
 
